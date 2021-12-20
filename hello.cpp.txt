@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main() {
+
+	std::cout << "계절학기 day \n";
+	return 0;
+
+}
